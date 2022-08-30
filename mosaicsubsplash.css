@@ -1,0 +1,22 @@
+/* Make Bold Headings Handwriting */
+
+h1 strong {
+  color: #ffa42e;
+  font-weight: 400;
+  font-size: 1.4em;
+  font-family: rollerscript-rough;
+}
+
+h2 strong {
+  color: #d24504;
+  font-weight: 400;
+  font-size: 1.25em;
+  font-family: rollerscript-rough;
+}
+
+h3 strong {
+  color: #d24504;
+  font-weight: 700;
+  font-size: 1.25em;
+  font-family: rollerscript-rough;
+}
